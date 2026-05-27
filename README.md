@@ -13,3 +13,5 @@ A stock market dashboard made using Python and Streamlit.
 - yfinance
 - pandas
 - matplotlib
+
+- direct Link- https://stock-dashboard-3zjd3nrfibws7xrc2q6cjm.streamlit.app/
